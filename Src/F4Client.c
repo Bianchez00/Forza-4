@@ -3,7 +3,7 @@
 #include <sys/ipc.h>
 #include <sys/shm.h>
 #include <sys/msg.h>
-#include "shared_memory.h"
+#include "../Inc/shared_memory.h"
 
 #include <stdio.h>
 #include <string.h>

@@ -1,0 +1,3 @@
+/Users/pietro_bianchedi/Desktop/Segnale CTRL-C per progetto/cmake-build-debug/CMakeFiles/Segnale_CTRL_C_per_progetto.dir
+/Users/pietro_bianchedi/Desktop/Segnale CTRL-C per progetto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pietro_bianchedi/Desktop/Segnale CTRL-C per progetto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

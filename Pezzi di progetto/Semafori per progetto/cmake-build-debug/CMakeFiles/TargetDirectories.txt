@@ -1,0 +1,3 @@
+/Users/pietro_bianchedi/Desktop/Semafori per progetto/cmake-build-debug/CMakeFiles/Semafori_per_progetto.dir
+/Users/pietro_bianchedi/Desktop/Semafori per progetto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pietro_bianchedi/Desktop/Semafori per progetto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

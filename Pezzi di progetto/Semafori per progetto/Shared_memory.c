@@ -1,11 +1,9 @@
-#include "../Inc/errExit.h"
-#include "../Inc/shared_memory.h"
-
 
 #include <sys/shm.h>
 #include <sys/stat.h>
 #include <stdio.h>
-
+#include "errExit.h"
+#include "shared_memory.h"
 
 
 

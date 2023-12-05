@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "shared_memory.h"
+#include "../Inc/shared_memory.h"
 /// libreria per i segnali
 #include <signal.h>
 // libreria  per la shared memory
